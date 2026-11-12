@@ -1,2 +1,2 @@
 # New-joo
-To design a llm 
+To design a llms
